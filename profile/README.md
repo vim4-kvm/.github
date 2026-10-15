@@ -22,3 +22,4 @@ Platform layers:
 | Hardware encoders | [gst-plugin-venc](https://github.com/vim4-kvm/gst-plugin-venc) | `vim4` |
 
 Each fork keeps upstream history and license; VIM4 changes live on the branch listed above.
+Original VIM4 code is released under GPL-3.0 (LGPL-2.1-or-later for the GStreamer capture plugin).
